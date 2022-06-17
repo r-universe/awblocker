@@ -1,0 +1,10 @@
+[
+  {
+    "package": "fastGHQuad",
+    "oncran": true
+  },
+  {
+    "package": "ipfp",
+    "oncran": true
+  }
+]
